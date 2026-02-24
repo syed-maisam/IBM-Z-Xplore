@@ -1,0 +1,86 @@
+{
+  "zos_version": "05.29.00",
+  "zosmf_port": "10443",
+  "zosmf_version": "29",
+  "zosmf_hostname": "S0W1.DAL-EBIS.IHOST.COM",
+  "plugins": [
+    {
+      "pluginVersion": "HSMA310;PH69181;2026-01-12T18:29:14",
+      "pluginDefaultName": "z/OS Operator Consoles",
+      "pluginStatus": "ACTIVE"
+    },
+    {
+      "pluginVersion": "HSMA310;DRIVER5;2023-03-15T10:28:59",
+      "pluginDefaultName": "Variables",
+      "pluginStatus": "ACTIVE"
+    },
+    {
+      "pluginVersion": "HSMA314;PH62240P;2025-09-05T20:03:37",
+      "pluginDefaultName": "Software Deployment",
+      "pluginStatus": "ACTIVE"
+    },
+    {
+      "pluginVersion": "HSMA317;PH68481;2025-11-14T20:51:23",
+      "pluginDefaultName": "Workflow",
+      "pluginStatus": "ACTIVE"
+    },
+    {
+      "pluginVersion": "HSMA315;PH64564;2025-03-01T12:05:35",
+      "pluginDefaultName": "IncidentLog",
+      "pluginStatus": "ACTIVE"
+    },
+    {
+      "pluginVersion": "HSMA31A;PH68655;2025-10-29T09:09:07",
+      "pluginDefaultName": "Network Configuration Assistant",
+      "pluginStatus": "ACTIVE"
+    },
+    {
+      "pluginVersion": "HSMA31E;PH65586;2025-06-09T03:34:03",
+      "pluginDefaultName": "IBM zERT Network Analyzer",
+      "pluginStatus": "ACTIVE"
+    },
+    {
+      "pluginVersion": "HSMA311;PH67365;2025-07-22T18:06:48",
+      "pluginDefaultName": "ISPF",
+      "pluginStatus": "ACTIVE"
+    },
+    {
+      "pluginVersion": "HSMA310;DRIVER5;2023-03-15T10:26:24",
+      "pluginDefaultName": "Import Manager",
+      "pluginStatus": "ACTIVE"
+    },
+    {
+      "pluginVersion": "HSMA312;PH66143;2025-09-12T12:37:04",
+      "pluginDefaultName": "ResourceMonitoring",
+      "pluginStatus": "ACTIVE"
+    },
+    {
+      "pluginVersion": "HSMA310;DRIVER4;2022-11-13T20:15:03",
+      "pluginDefaultName": "z/OS Management Services Catalog",
+      "pluginStatus": "INSTALLED"
+    },
+    {
+      "pluginVersion": "HSMA313;PH65576;2025-04-07T17:16:18",
+      "pluginDefaultName": "WorkloadManagement",
+      "pluginStatus": "ACTIVE"
+    },
+    {
+      "pluginVersion": "HSMA316;PH67654;2025-09-22T12:18:15",
+      "pluginDefaultName": "Capacity Provisioning",
+      "pluginStatus": "ACTIVE"
+    },
+    {
+      "pluginVersion": "HSMA310;PH61589;2024-06-20T06:32:42",
+      "pluginDefaultName": "Security Configuration Assistant",
+      "pluginStatus": "ACTIVE"
+    },
+    {
+      "pluginVersion": "HSMA310;PH58228;2023-11-20T19:56:54",
+      "pluginDefaultName": "Cloud Provisioning",
+      "pluginStatus": "ACTIVE"
+    }
+  ],
+  "zosmf_saf_realm": "SAFRealm",
+  "zosmf_full_version": "29.0",
+  "api_version": "1"
+}
