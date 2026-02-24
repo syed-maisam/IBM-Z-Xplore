@@ -1,0 +1,33 @@
+ Welcome to IBM Z XPlore!
+
+This system is provided for learners of all types - students, experts,
+reskillers, developers, administrators .. - to learn new skills for
+using modern mainframes.
+
+**-COBOL-**
+
+  If you have joined the system through a COBOL with VSCode course,
+  make sure to complete the "Access Resources" challenge in the COBOL
+  section highlighted on the homepage.
+
+**-COBOL-**
+
+Apart from scheduled outages for data center maintanence roughly every
+two weeks, the system is available to try the provided challenges, and
+for you to do your own experiments.
+
+Activities which adversely affect other users will be terminated - be a
+"good citizen"!
+
+Remember that this system is provided for non-commercial educational
+use - any activity indicating commercial activity will result in your
+account and membership being terminated.
+
+Enjoy building and enhancing your mainframe skills - if you get stuck,
+try searching the forums before asking questions; if you do ask a
+question, make sure to provide information that will allow others to
+help.
+
+If you have been away for a while, datasets you created may have been
+deleted - to get basic datasets created, use the PDSBUILD and JCLSETUP
+jobs.
