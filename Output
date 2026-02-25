@@ -1,0 +1,7 @@
+This log file is available at /Users/syedabbas/Library/Application Support/Code/logs/20260224T164955/window1/exthost/IBM.zopeneditor/zopeneditor-20260224-215149.log.
+Initialized IBM Z Open Editor logger on level "INFO".
+2026-02-24T16:51:49.740-05:00 INFO : CRRZG5164I Zowe Explorer was modified for IBM Remote System Explorer API (RSE API) support by IBM Z Open Editor.
+2026-02-24T16:51:50.083-05:00 INFO : CRRZG5128I IBM Z Open Editor extension has (re)started.
+2026-02-24T17:21:59.924-05:00 ERROR: CRRZG5149E Profile "rse" failed to connect to "204.90.115.200" to determine and renew your advanced capabilities activation. Please review your Zowe profile's configuration and try again or contact your RSE API system administrator. The error returned was "Failed to send an HTTP request.
+2026-02-24T23:07:34.522-05:00 INFO : CRRZG5303I You opened a file with include files, but do not have a ZAPP file with Property Groups defined that specify where to find them. We started creating one for you in "{0}". Once it is available the language server will use it for searching again in all your folders. Edit the file to point to more specific folders for efficiency. Review the documentation about Zapp files.
+2026-02-24T23:07:34.524-05:00 WARN : CRRZG5307W The JCL language server requested the include file "ZXP$$CHK", which was not found. enforceCaseSensitiveIncludeFileNames was set to false. Check your Zowe CLI profile and property group settings and if you have not already done so, switch to the "DEBUG" log level for more information.
